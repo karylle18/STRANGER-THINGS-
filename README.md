@@ -63,7 +63,7 @@ Work was divided equally among four members. Individual contributions are record
 | Member | Character profiles | Additional page | Shared file |
 |---|---|---|---|
 | Dellosa, Karylle Lynn L. | Eleven, Jim Hopper | story.html | css/style.css |
-| Hayag, Carmel Mariane G. | Mike Wheeler, Dustin Henderson | places.html | index.html |
+| Hayag, Carmel Mariane T. | Mike Wheeler, Dustin Henderson | places.html | index.html |
 | Java, Armisty Genia L. | Will Byers, Max Mayfield | quiz.html, js/quiz.js | js/main.js |
 | Padillo, Reymart G. | Steve Harrington, Joyce Byers | glossary.html | README.md, final testing |
 
